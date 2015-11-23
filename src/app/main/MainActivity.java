@@ -1,4 +1,4 @@
-package com.example.wicharge;
+package app.main;
 
 import android.app.Activity;
 import android.os.Bundle;
